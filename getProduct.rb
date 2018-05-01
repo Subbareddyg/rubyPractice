@@ -11,3 +11,4 @@ end
 
 GetProduct_product = GetProduct.new
 puts GetProduct_product.getProduct
+puts "Hello Ruby"
